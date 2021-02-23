@@ -1,0 +1,9 @@
+---
+layout: layouts/base.njk
+permalink: /
+---
+Hello, welcome to my eleventy netlify blog.
+<ul>
+   {%set postlist=collections.posts%}
+{% include "postList.njk"%}
+    </ul>

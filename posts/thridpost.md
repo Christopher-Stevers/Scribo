@@ -1,0 +1,6 @@
+---
+layout: posts.njk
+title: Preserving
+description: this place shall last
+---
+I shall edit this blog, never delete. For more info on its history, check out my github repo. Now is my first commit.
