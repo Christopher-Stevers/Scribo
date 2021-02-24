@@ -7,10 +7,15 @@
     {%for post in postlist%}
         <li>
             <strong><a href="{{post.url | url}}">{{post.data.title}}</a></strong>
-            <time dateTime="{{post.date}}">{{post.date}}</time>
+            <time class="date" dateTime="{{post.date}}">{{post.date}}</time>
             <span>{{post.data.description}}</span>
 
         </li>
 
         {%endfor%}
     </ul>
+    <script>
+        
+        let newDate=`{{post.date}}`.slice(0, 16);
+    document.querySelector("time.date").innerText=newDate;
+</script>
