@@ -6,6 +6,6 @@ layout: layouts/base.njk
 <h3 class="date">{{date}}</h3>
 <img src={{featuredImage}}>
 <p>{{content|safe}}</p>
-<script>let newDate=`{{date}}`.slice(0, 16);
+<script>let newDate=`{{date}}.slice(0, 16);`
     document.querySelector(".date").innerText=newDate;
 </script>
