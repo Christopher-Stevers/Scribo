@@ -7,15 +7,18 @@
     {%for post in postlist%}
         <li>
             <strong><a href="{{post.url | url}}">{{post.data.title}}</a></strong>
-            <time class="date" dateTime="{{post.date}}">{{post.date}}</time>
+            <time class='date' dateTime="{{post.date}}">{{post.date}}</time>
             <span>{{post.data.description}}</span>
-
+ 
         </li>
 
         {%endfor%}
     </ul>
-    <script>
-        
-        let newDate=`{{post.date}}`.slice(0, 16);
-    document.querySelector("time.date").innerText=newDate;
+   <script>//next to lines are from MDN
+      let elems = document.querySelectorAll('.date');
+      let newElems;
+for(let i=0; i<elems.length; i++){
+console.log(document.querySelectorAll('.date')[i].innerText.slice(0, 16));
+document.querySelectorAll('.date')[i].innerText=document.querySelectorAll('.date')[i].innerText.slice(0, 16);
+}
 </script>
