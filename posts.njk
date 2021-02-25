@@ -3,6 +3,23 @@ layout: layouts/base.njk
 
 permalink: /posts/
 ---
+<head>
+<title>scribo</title>
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
+      <link rel="stylesheet" href="/css/style.css">
+      <style>h1 {
+  font-family: 'Great Vibes', cursive;
+  color: rgba(0, 0, 0, 0.1);
+  font-size: 7rem;
+  max-height: 10vh;
+  position: fixed;
+  bottom: 0px;
+}
+ul{width: 100%;}
+      </style>
+</head>
+
+<h1><span>Scribo</span>—<span>I Write</span></h1>
 {%set postlist=collections.posts%}
 {% include "postList.njk"%}

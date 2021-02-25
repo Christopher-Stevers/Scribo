@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Prociono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather&display=swap");
+
+* {
+  box-sizing: border-box;
+  &:visited {
+    color: inherit;
+  }
+}
+:root {
+  font-size: 16px;
+  font-family: "Merriweather", serif;
+}
+h1 {
+  font-family: "Great Vibes", cursive;
+  color: rgba(0, 0, 0, 1);
+  font-size: 4rem;
+  span {
+    white-space: nowrap;
+  }
+}
+
+body {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  margin: 0px;
+}
+p {
+  text-indent: 3em;
+}
+img {
+  object-fit: contain;
+  height: calc(100vh - 20rem);
+}
+main {
+  line-height: 150%;
+  object-fit: contain;
+  display: grid;
+  overflow: contain;
+  grid-template-rows: 0.1fr 0.1fr 0.5fr;
+}
+main,
+aside {
+  flex: 1;
+  margin: 5vh 5%;
+  max-height: 90vh;
+}
+aside{overflow-y: scroll;
+box-shadow: inset 0px 0px 3px 3px black;
+border: 3px solid black;
+z-index: 1;
+padding: 3px;}
+strong {
+  color: #003d7a;
+}
+ul{
+  list-style-type: none;
+padding-left: 0px;
+display: grid;
+justify-content: center;
+}
+li {
+  height: 15vh;
+  margin: 5vh;
+  position: relative;
+  border: #003d7a solid 3px;
+  box-shadow: 0px 0px 2px 1px #003d7a, inset 0px 0px 2px 2px #003d7a;
+  top: 0px;
+  transition: .3s;
+  
+  transition-timing-function: linear;
+  padding: 8px;
+  &:hover {
+    background-color: rgb(247, 242, 235);    
+  box-shadow: 0px 0px 2px 3px #003d7a, inset 0px 0px 3px 0px #003d7a;
+    top: -3px;
+    
+  }
+}
+a {
+  text-decoration: none;
+}
