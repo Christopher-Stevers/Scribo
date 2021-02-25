@@ -7,11 +7,15 @@ layout: layouts/base.njk
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
       <link rel="stylesheet" href="/css/postStyle.css">
+      <style>h1>a{
+  color: rgba(0, 0, 0, .1);}
+  h1>a:hover{color:rgba(0, 61, 122, .2)}
+}</style>
 </head>
 
       
 <body>
-<h1><a href="https://nifty-bartik-2f8945.netlify.app"><span>Scribo</span>—<span>I Write</span></a></h1>
+<h1><a href="/"><span>Scribo</span>—<span>I Write</span></a></h1>
 <main><article>
 <section><h2>{{title}}</h2>
 <h3 class="date">{{date}}</h3>
