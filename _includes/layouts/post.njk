@@ -1,11 +1,13 @@
 ---
 layout: layouts/base.njk
----
 
-<h2>{{title}}</h2>
+---
+<main><article>
+<section><h2>{{title}}</h2>
 <h3 class="date">{{date}}</h3>
-<img src={{featuredImage}}>
-<p>{{content|safe}}</p>
+<img src={{featuredImage}}></section>
+<section><p>{{content|safe}}</p></section>
+</article></main>
 <script>let newDate=`{{date}}`.slice(0, 16);
     document.querySelector(".date").innerText=newDate;
 </script>
