@@ -3,9 +3,9 @@
 
 
 
-<ul>
+<ul class="post-list">
     {%for post in postlist | reverse -%}
-        <a href="{{post.url | url}}"><li>
+        <a href="{{post.url | url}}"><li class="post-li">
             <strong>{{post.data.title}}</strong>
             <time class='date' dateTime="{{post.date}}">{{post.date}}</time>
             <span>{{post.data.description}}</span>
