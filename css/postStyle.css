@@ -6,6 +6,10 @@
           box-sizing: border-box;
 }
 
+:root {
+  font-size: 20px;
+}
+
 h1 {
   font-family: 'Great Vibes', cursive;
   color: rgba(0, 0, 0, 0.1);
@@ -48,6 +52,7 @@ main {
 
 section p {
   text-indent: 3em;
+  line-height: 150%;
 }
 
 section:nth-child(1) {

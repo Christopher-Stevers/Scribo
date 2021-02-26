@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Prociono&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
 *{box-sizing: border-box;}
+:root{font-size: 20px;}
 h1{
   font-family:  'Great Vibes', cursive;
   color: rgba(0, 0, 0, .1);
@@ -27,7 +28,8 @@ body {
   margin: 5vh 5%;
   }
   section{
-      p{text-indent: 3em;}
+      p{text-indent: 3em;
+      line-height: 150%;}
   &:nth-child(1){
     
   display:grid;
