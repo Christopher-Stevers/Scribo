@@ -51,18 +51,22 @@ aside {
 aside{overflow-y: scroll;
 box-shadow: inset 0px 0px 3px 3px black;
 border: 3px solid black;
-z-index: 1;
+z-index: 2;
+position: relative;
 padding: 3px;}
 strong {
   color: #003d7a;
 }
 ul{
+  z-index:1;
+  position: relative;
   list-style-type: none;
 padding-left: 0px;
 display: grid;
 justify-content: center;
 }
 li {
+z-index:1;
   height: 15vh;
   margin: 5vh;
   position: relative;
@@ -77,6 +81,7 @@ li {
     background-color: rgb(247, 242, 235);    
   box-shadow: 0px 0px 2px 3px #003d7a, inset 0px 0px 3px 0px #003d7a;
     top: -3px;
+    z-index: 1;
     
   }
 }
