@@ -1,9 +1,8 @@
 ---
 layout: layouts/post.njk
-title: Does the date code Snippet work
-description: date
+title: Date Shortening.
+description: Checking to see if the new date shortener works.
 date: 2021-02-24T05:00:00.000Z
-featuredImage: /images/uploads/IMG_2909.webp
+featuredImage: ""
 ---
-We'll see!
-Well it didn't.
+I just used a snippet in the eleventy.js file in an attempt to shorten the dates the netlify date picker gives. It didn't work. Instead I'm just resorting to client-side JS.
