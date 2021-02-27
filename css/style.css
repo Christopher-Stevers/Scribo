@@ -35,6 +35,12 @@ body {
   margin: 0px;
 }
 
+@media screen and (max-width: 500) {
+  body {
+    display: block;
+  }
+}
+
 p {
   text-indent: 3em;
 }
