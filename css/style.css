@@ -108,6 +108,9 @@ strong {
 .post-li {
   z-index: 1;
   height: 15vh;
+  min-height: -webkit-min-content;
+  min-height: -moz-min-content;
+  min-height: min-content;
   margin: 5vh;
   position: relative;
   border: #003d7a solid 3px;
