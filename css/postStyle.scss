@@ -33,7 +33,7 @@ body {
   &:nth-child(1){
   display:grid;
   grid-template-columns: 1.8fr .2fr;
-    @media screen and (max-width: 850){
+    @media screen and (max-width: 950px){
       grid-template-columns: 1fr;
     }
   p{text-indent: 0;}

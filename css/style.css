@@ -35,7 +35,7 @@ body {
   margin: 0px;
 }
 
-@media screen and (max-width: 850) {
+@media screen and (max-width: 950px) {
   body {
     display: block;
     height: auto;
