@@ -37,6 +37,7 @@ p {
 img {
   object-fit: contain;
   height: calc(100vh - 20rem);
+  max-width: 97vw;
 }
 main {
   line-height: 150%;
