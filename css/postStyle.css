@@ -63,7 +63,7 @@ section:nth-child(1) {
   grid-auto-flow: column;
 }
 
-@media screen and (max-width: 500) {
+@media screen and (max-width: 1000) {
   section:nth-child(1) {
     display: block;
   }
