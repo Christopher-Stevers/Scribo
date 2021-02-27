@@ -63,9 +63,10 @@ section:nth-child(1) {
   grid-auto-flow: column;
 }
 
-@media screen and (max-width: 1000) {
+@media screen and (max-width: 850) {
   section:nth-child(1) {
-    display: block;
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
   }
 }
 

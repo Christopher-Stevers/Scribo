@@ -33,8 +33,8 @@ body {
   &:nth-child(1){
   display:grid;
   grid-template-columns: 1.8fr .2fr;
-    @media screen and (max-width: 1000){
-      display: block;
+    @media screen and (max-width: 850){
+      grid-template-columns: 1fr;
     }
   p{text-indent: 0;}
   grid-auto-flow: column;
