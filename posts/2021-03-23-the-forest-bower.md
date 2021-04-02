@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: The Forest Bower
-description: An lad run in search of adventure
+description: A lad runs in search of adventure
 date: 2021-03-22T04:00:00.000Z
 featuredImage: /images/uploads/8tabbye7c.jpg
 ---
