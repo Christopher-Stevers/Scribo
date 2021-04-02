@@ -31,9 +31,11 @@ body {
       p{text-indent: 3em;
       line-height: 150%;}
   &:nth-child(1){
-    
   display:grid;
   grid-template-columns: 1.8fr .2fr;
+    @media screen and (max-width: 950px){
+      grid-template-columns: 1fr;
+    }
   p{text-indent: 0;}
   grid-auto-flow: column;
   }

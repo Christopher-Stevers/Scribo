@@ -27,6 +27,10 @@ body {
   width: 100%;
   height: 100vh;
   margin: 0px;
+  @media screen and (max-width: 950px){
+    display: block;
+    height: auto;
+  }
 }
 p {
   text-indent: 3em;
@@ -34,11 +38,13 @@ p {
 img {
   object-fit: contain;
   height: calc(100vh - 20rem);
+  max-width: 97vw;
 }
 main {
   line-height: 150%;
   object-fit: contain;
   display: grid;
+  @media screen and (max-width: 850) {display: block;}
   overflow: contain;
   grid-template-rows: 0.1fr 0.1fr 0.5fr;
 }
@@ -68,6 +74,7 @@ justify-content: center;
 .post-li {
 z-index:1;
   height: 15vh;
+  min-height: min-content;
   margin: 5vh;
   position: relative;
   border: #003d7a solid 3px;

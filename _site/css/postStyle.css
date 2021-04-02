@@ -63,6 +63,13 @@ section:nth-child(1) {
   grid-auto-flow: column;
 }
 
+@media screen and (max-width: 950px) {
+  section:nth-child(1) {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+}
+
 section:nth-child(1) p {
   text-indent: 0;
 }

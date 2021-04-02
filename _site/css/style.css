@@ -35,6 +35,13 @@ body {
   margin: 0px;
 }
 
+@media screen and (max-width: 950px) {
+  body {
+    display: block;
+    height: auto;
+  }
+}
+
 p {
   text-indent: 3em;
 }
@@ -43,6 +50,7 @@ img {
   -o-object-fit: contain;
      object-fit: contain;
   height: calc(100vh - 20rem);
+  max-width: 97vw;
 }
 
 main {
@@ -54,6 +62,12 @@ main {
   overflow: contain;
   -ms-grid-rows: 0.1fr 0.1fr 0.5fr;
       grid-template-rows: 0.1fr 0.1fr 0.5fr;
+}
+
+@media screen and (max-width: 850) {
+  main {
+    display: block;
+  }
 }
 
 main,
@@ -94,6 +108,9 @@ strong {
 .post-li {
   z-index: 1;
   height: 15vh;
+  min-height: -webkit-min-content;
+  min-height: -moz-min-content;
+  min-height: min-content;
   margin: 5vh;
   position: relative;
   border: #003d7a solid 3px;
