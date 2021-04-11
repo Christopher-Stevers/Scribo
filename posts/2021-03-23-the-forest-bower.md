@@ -12,7 +12,7 @@ This is where a conscientious man would return to his home and give little thoug
 \
 As he moved into the darkness, it seemed to him that his objective could be no more than a hundred paces off, but looks are deceptive.  A half-kilometer later he reached a little wood. An intelligent man stopped advancing and child would have fled from the first he continued into the thorny woods and soon came to a magical sight. \
 \
-There sat upon a stump, a lady full of wisdom and strength seemingly conversing. A vision then seemed to veil his eyes and he stood in some courtyard furnished with living wood. Surrounding him were a group of somber creatures of human form but with a ethos beyond anything he had known. There faces spoke of the wisdom of years, yet possessed the innocence of children. With a slight expression of surprise one of them welcomed him, \
+There sat upon a stump, a lady full of wisdom and strength seemingly conversing. A vision then seemed to veil his eyes and he stood in some courtyard furnished with living wood. Surrounding him were a group of sombre creatures of human form but with a ethos beyond anything he had known. There faces spoke of the wisdom of years, yet possessed the innocence of children. With a slight expression of surprise one of them welcomed him, \
 \
   "May the stars greet you! I perceive you are  not of our kind--what brings you to this sad event?"\
    \
