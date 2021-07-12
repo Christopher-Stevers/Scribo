@@ -20,12 +20,14 @@ Why are men divided from their most dear?
 
 Oh that there were no reason to Fear. . . 
 
-For 'tis a hard world, evil is oft abroad.
+For 'tis a hard world, evil is oft abroad,
 
-And without lines in the dark
+And without lines in the dark,
 
 Who knows what the future might bode.
 
 But this I know, so hark!
 
-No fear should part forever us an those most dear.
+No fear should part forever,
+
+The good man and his most dear.
