@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Lines in the Dark
 description: The strings that hold us.
 date: 2021-07-11T04:00:00.000Z
+featuredImage: /images/uploads/borders.png
 ---
 There lay a line in the night
 
