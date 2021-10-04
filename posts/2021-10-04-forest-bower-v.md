@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: Forest Bower V
 date: 2021-10-03T04:00:00.000Z
+featuredImage: /images/uploads/heroknight.webp
 ---
 After a few long days of travel the lad and his party arrived at a great crossroads.  At the late hour the wood was a buzz with activity. It was full of persons of the same race as his followers but divers dress and customs. Then the Queen addressed him.
 
