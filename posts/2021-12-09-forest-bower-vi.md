@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Forest Bower VI
+description: In Progress!
 date: 2021-12-08T05:00:00.000Z
 ---
 The land they now traveled into was thick with forests and sloughs -- a dramatic change from the open spaces of their native land!\
