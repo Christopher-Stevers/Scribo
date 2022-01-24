@@ -4,19 +4,19 @@ title: Forest Bower VI
 description: ""
 date: 2022-01-23T05:00:00.000Z
 ---
-The land they now travelled into was thick with forests and sloughs -- a dramatic change from the open spaces of their native land!\
+The land they now travelled into was thick with forests and sloughs -- a dramatic change from the open spaces of their native land!
 
-The countless sloughes were a new challenge. They made the course into something of a maze. Whenever the forest opened, they  would find themselves standing in water and muck. A wrong step could be the end of the unwary traveller here. The woodcraft of these people being strong, they could easily avoid the pitfalls around their path, but our lad was not yet trained in their ways. Once as he slipped into the muck, he heard a call, "Woop, Woooop." He extricated himself from the slop and, taking a couple of the natives left to investigate. As they picked their way around the sloughs it grew weaker, and they were lead deeper into the mists. Against his better judgement he followed it with his companions. The younger companion, Langstadt was wary of the swamps and wished to return, " Who knows where we are in this mist? If the heat of the day overcomes us the muck may become are grave!"\
+The countless sloughes were a new challenge. They made the course into something of a maze. Whenever the forest opened, they  would find themselves standing in water and muck. A wrong step could be the end of the unwary traveller here. The woodcraft of these people being strong, they could easily avoid the pitfalls around their path, but our lad was not yet trained in their ways. Once as he slipped into the muck, he heard a call, "Woop, Woooop." He extricated himself from the slop and, taking a couple of the natives left to investigate. As they picked their way around the sloughs it grew weaker, and they were lead deeper into the mists. Against his better judgement he followed it with his companions. The younger companion, Langstadt was wary of the swamps and wished to return, " Who knows where we are in this mist? If the heat of the day overcomes us the muck may become are grave!"
 
-"No there must be someone no more than 30 yards hence."\
+"No there must be someone no more than 30 yards hence."
 
-"You said that an hour ago!"\
+"You said that an hour ago!"
 
  Meanwhile it was growing hot, but with no sun to burn through the stifling mists.
 
-"Trust me, anyways, can't you find the way out?"\
+"Trust me, anyways, can't you find the way out?"
 
-\
+
 
 "Me? I trusted your sense. I've never ventured into this foul place. " A shiver ran up the lad's spine. Had he gotten his own guides lost? But presently he found the source of the calls. It was a poor hut with a thatched roof and a low door. He knocked and was greeted by a relieved voice. "O that I couda' see me chil' before death! Dare son! Come in!"
 
@@ -30,7 +30,7 @@ The lad opened the door and peered in. The pitiful house held little more than a
 
 Apparently the occupant hadn't gotten the message, but the lad humoured her and stepped in. No sooner had he crossed the threshold than a knarled hand covered his mouth. "Don't struggle." whispered its owner. Not wanting to humour its owner, the lad struck behind him and wrestled with its grasp. But he was barely a match for his captor'
 
-s brutal grasp. "Will you now be my son?" asked the wretched women; but the lad could think of no answer. At this she took a dagger from her garments. If thou wilt not be my blood, let me take yours. Under a foul force, the lad felt his own energy fading as she forgot her in infirmity and advanced toward him. \
+s brutal grasp. "Will you now be my son?" asked the wretched women; but the lad could think of no answer. At this she took a dagger from her garments. If thou wilt not be my blood, let me take yours. Under a foul force, the lad felt his own energy fading as she forgot her in infirmity and advanced toward him. 
 
 Whatever devilish madness she was executing was interrupted by Langstatdt's voice. "Strike the witch!" Before her evil gaze had turned, an arrow pierced her throat. Seeing the change of tide, the brute released his grip and fled.
 
