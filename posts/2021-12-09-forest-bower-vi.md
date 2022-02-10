@@ -4,21 +4,21 @@ title: Forest Bower VI
 description: ""
 date: 2022-01-23T05:00:00.000Z
 ---
-The land they now travelled into was thick with forests and sloughs -- a dramatic change from the open spaces of their native land!
+The land they now travelled into was thick with forests and sloughs -- a dramatic change from the open spaces of their native land.
 
-The countless sloughes were a new challenge. They made the course into something of a maze. Whenever the forest opened, they  would find themselves standing in water and muck. A wrong step could be the end of the unwary traveller here. The woodcraft of these people being strong, they could easily avoid the pitfalls around their path, but our lad was not yet trained in their ways. Once as he slipped into the muck, he heard a call, "Woop, Woooop." He extricated himself from the slop and, taking a couple of the natives left to investigate. As they picked their way around the sloughs it grew weaker, and they were lead deeper into the mists. Against his better judgement he followed it with his companions. The younger companion, Langstadt was wary of the swamps and wished to return, " Who knows where we are in this mist? If the heat of the day overcomes us the muck may become are grave!"
+The countless sloughs made the way ahead into a treacherous maze. Whenever the forest opened, they  would find themselves standing in water and muck. A wrong step could be the end of the unwary traveller here. The woodcraft of these people being strong, they could easily avoid the pitfalls around their path, but our lad was not yet trained in their ways. Once as he slipped into the muck, he heard a call, "Woop, Woooop." He extricated himself from the slop and, taking a couple of the natives left to investigate. As they picked their way around the sloughs it grew weaker, and they were lead deeper into the mists. Against his better judgment he followed it with his companions. The younger of these, Langstadt was wary of the swamps and wished to return, "Who knows where we are in this mist?" [he complained.
 
-"No there must be someone no more than 30 yards hence."
+ "If the heat of the day overcomes us, the muck may become our grave!" 
+
+The lad tried to encourage him. "No,it sounds like there is someone no more than thirty yards hence. "
 
 "You said that an hour ago!"
 
- Meanwhile it was growing hot, but with no sun to burn through the stifling mists.
+Meanwhile it was growing hot, but there was no sun to burn through the stifling mists. 
 
-"Trust me, anyways, can't you find the way out?"
+"Trust me, anyways, can't you find the way out?" the lad asked. "Me?" Langstadt shook his head. "I trusted your sense. I've never ventured into this foul place."
 
-
-
-"Me? I trusted your sense. I've never ventured into this foul place. " A shiver ran up the lad's spine. Had he gotten his own guides lost? But presently he found the source of the calls. It was a poor hut with a thatched roof and a low door. He knocked and was greeted by a relieved voice. "O that I couda' see me chil' before death! Dare son! Come in!"
+A shiver ran up the lad's spine. Had he gotten his own guide lost? But presently he found the source of the calls. It was a poor hut with a thatched roof and a low door. He knocked and was greeted by a relieved voice. "O that I couda' see me chil' before death! Dare son! Come in!"
 
 Evidently someone's coming was expected. "I am not your son, but may I come in?"
 
