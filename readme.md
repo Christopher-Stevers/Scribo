@@ -1,6 +1,6 @@
 # Scribo
 ---
-My personal blog built with eleventy.
+My personal blog built with 11ty.
 
 Summary
 ---
