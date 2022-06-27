@@ -1,3 +1,10 @@
+---
+layout: layouts/post.njk
+title: Forest Bower VII
+description: ""
+date: 2022-06-27T12:27:00.000Z
+---
+
 Having been supplied with their allotment the royal party and followers set to the task of building a new homeland. They hewed great trees and joined them with pegs, for iron was scarce in that region. Food waas easier to obtain. Endless heards of giant fauna grazaed in clearings in the great forest. Our lad proved to be a great hunter. Though their bows were of magic power the human lad showed great skill in wielding them and nearly every time returned with the greatest haul of bush meat. His unlooked for skill lent him renown, but jealous men whispered that his ability was caused by a dangerous blood lust.
 In due time the lad was married to the princess, uniting them forever in rule and love. It was the first time a union was made between the disparate races, but the elders caustiously approved, for as they said, "We are not true aliens, but cousins of the distant past." Time would tell what mixture of love and sorrow this union was to bring.
 Some also also questioned their union due to the uncertainty of raising princlings in the barely settled, half-wild land, but the lad rebuked them saying: "What future are we buiulding, if there are no children to carry it?", Though this seemed strange to ammortals their was some truth in it. Long lives also end, whether by sickness in mortals, violence, or despair in ammortals.
