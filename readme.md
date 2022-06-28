@@ -14,3 +14,4 @@ Credits
 ---
 This project could not have been built without Koa Brooks' tutorial on eleventy and netlify cms. The tutorial can be found here:
  https://dev.to/koabrook/creating-a-basic-blog-with-eleventy-and-netlify-cms-completely-from-scratch-197e
+ 
