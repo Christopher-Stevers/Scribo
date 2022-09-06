@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
-title: Forest Bower VII
+title: Jest+React-tips
 description: ""
-date: 2022-09-57T12:27:00.000Z
+date: 2022-09-07T12:27:00.000Z
 ---
 
 ## Cannot update state on unmounted component.
