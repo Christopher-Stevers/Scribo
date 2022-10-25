@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: The Forest Bower -- Part II
 description: What lies within the forest?
 date: 2021-04-19T04:00:00.000Z
+featuredImage: /images/uploads/heroKnight.webp
 ---
 When he was led back to the crowd a dark scene unfolded before. A bier stood, wrapt in sable stood in the midst and sad chants rose to the air. With an sigh, the enthroned woman motioned to our young man to approach her. \
 "I thank you for your presence! What people do you represent?"\

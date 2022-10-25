@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Forest Bower VII
 description: ""
 date: 2022-06-27T12:27:00.000Z
+featuredImage: /images/uploads/heroKnight.webp
 ---
 
 Having been supplied with their allotment the royal party and followers set to the task of building a new homeland. They hewed great trees and joined them with pegs, for iron was scarce in that region. Food waas easier to obtain. Endless heards of giant fauna grazaed in clearings in the great forest. Our lad proved to be a great hunter. Though their bows were of magic power the human lad showed great skill in wielding them and nearly every time returned with the greatest haul of bush meat. His unlooked for skill lent him renown, but jealous men whispered that his ability was caused by a dangerous blood lust.

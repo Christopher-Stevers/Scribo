@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Forest Bower VII
 description: ""
 date: 2022-06-27T12:27:00.000Z
+featuredImage: /images/uploads/heroKnight.webp
 ---
 
 Despite his men's cries of support, our lad could tell they were disturbed his inexperience. How could they not be? Few 1000 year old ammortals would trust a child of under 100 years as their leader. The center of this discontent was the lad's dear friend Kushlova. He was a great warrior, but still greater as a councillor. Yet, despite his great age, Kushlova's wisodm was combined with the energy of a youth.
