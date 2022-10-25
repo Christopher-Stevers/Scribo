@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: Veiled Not Crushed
 date: 2021-08-15T04:00:00.000Z
+featuredImage: /images/uploads/heroKnight.webp
 ---
 Nature is hidden; not broke.
 

@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: The Forest Bower III
 date: 2021-04-25T04:00:00.000Z
+featuredImage: /images/uploads/heroKnight.webp
 ---
 He awoke with a start. Had it been all a dream . . . or a nightmare? No. The morning dew lay thick around him and a strange voice beckoned to him.  "We rise early and travel soon! Come, the Principia wishes to see you before we move. Arise!" Rubbing his eyes the lad, lept from his hammock and made his way through the dawn to the courtyard of the previous day. His own vigor surprised himself  . . .  could he have rested that well in such a short time?\
 When arrived at the courtyard, he noticed the furnishings of the yesterday had been all removed and it looked liked little more than a rough clearing in the wood. It was filled not with mourners but with persons with packs upon there back .\
