@@ -24,15 +24,14 @@
 <body>
 <h1><a href="/"><span>Scribo</span>—<span>I Write</span></a></h1>
 <main><article>
-<section><h2>Launch!</h2>
-<h3 class="date">Fri Feb 26 2021 00:00:00 GMT-0500 (Eastern Standard Time)</h3>
-<img src=/images/uploads/heroKnight.webp></section>
-<section><p><p>Hi, my name is Christopher Stevers, an aspiring developer from Perth County Ontario and I've finally got around to creating a &quot;blog&quot;. Can't wait to share some of my interests with you!<br>
-<br>
-P. S. All posts after this one will be of a more long form variety.</p>
+<section><h2>Jest+React-tips</h2>
+<h3 class="date">Wed Sep 07 2022 08:27:00 GMT-0400 (Eastern Daylight Time)</h3>
+<img src=/images/uploads/code_editor.webp></section>
+<section><p><h4>Cannot update state on unmounted component.</h4>
+<p>Solution to this is to wrap end of test in <code>waitFor(()=&gt;{})</code> I assume this works because it prevents jest from trying to unmount the component before the state updater runs. I've looked everywhere and can't find another solution.</p>
 </p></section>
 </article></main>
-<script>let newDate=`Fri Feb 26 2021 00:00:00 GMT-0500 (Eastern Standard Time)`.slice(0, 16);
+<script>let newDate=`Wed Sep 07 2022 08:27:00 GMT-0400 (Eastern Daylight Time)`.slice(0, 16);
     document.querySelector(".date").innerText=newDate;
 </script>
 

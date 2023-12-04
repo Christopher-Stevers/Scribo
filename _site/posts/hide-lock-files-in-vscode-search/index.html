@@ -1,0 +1,65 @@
+<html>
+
+
+<head>
+<title>scribo</title>
+
+<meta name="description"  content="Christopher Stevers' personal blog" >
+
+<!--Thanks to wordpress.com via yasudakiyuz.wordpress.com for ogimage code-->
+<meta property="og:image" content="https://christopherstevers.cf/images/heroKnight.webp">
+<meta property="og:image:width" content="200">
+<meta property="og:image:height" content="200">
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png">
+      <link rel="stylesheet" href="/css/postStyle.css">
+      <style>h1>a{
+  color: rgba(0, 0, 0, .1);}
+  h1>a:hover{color:rgba(0, 61, 122, .2)}
+}</style>
+</head>
+
+      
+<body>
+<h1><a href="/"><span>Scribo</span>—<span>I Write</span></a></h1>
+<main><article>
+<section><h2>Hide lock files</h2>
+<h3 class="date">Tue Oct 25 2022 01:00:00 GMT-0400 (Eastern Daylight Time)</h3>
+<img src=/images/uploads/untitled.png></section>
+<section><p><p>You've been there before - trying to quickly search something up in vscode and all you can see is miles of lock file until you close the little dropdowny things beside the lock file name.
+Why not just exclude them from search? Because its to hard! No, it isn't, its just a few steps and will save you time.</p>
+<ul>
+<li>
+<p>Go to the top menu then File&gt;Preferences&gt;Settings and pick the user tab</p>
+</li>
+<li>
+<p>Search <code>search exclude</code>. Scroll down and you'll a box like this</p>
+</li>
+<li>
+<p><img src="https://user-images.githubusercontent.com/72156679/197761275-f21aa933-5c87-4898-96d4-5f4368872ab8.png" alt="image"></p>
+</li>
+<li>
+<p>Click <code>Add Pattern</code> and type in package-lock.json. Once that's been added if you have a yarn.lock file you can do the same for <code>yarn.lock</code>.</p>
+<p>Hooray, now you can actually find code that has a similar name to your dependency!</p>
+</li>
+</ul>
+</p></section>
+</article></main>
+<script>let newDate=`Tue Oct 25 2022 01:00:00 GMT-0400 (Eastern Daylight Time)`.slice(0, 16);
+    document.querySelector(".date").innerText=newDate;
+</script>
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+</body>
+</html>
